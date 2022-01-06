@@ -1,0 +1,40 @@
+.title {
+  text-align: center;
+  font-size: xx-large;
+  text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);
+}
+
+.stars {
+  padding: 1rem;
+  margin: 10px;
+  box-shadow: 9.91px 9.91px 15px #d9dade, -9.91px -9.91px 15px #ffffff;
+}
+
+.stars li {
+  list-style: none;
+  text-align: center;
+  font-size: large;
+}
+
+.stars li:nth-child(1) {
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.description {
+  margin-top: 30px;
+  padding: 1rem;
+  text-align: center;
+  font-size: large;
+  box-shadow: 9.91px 9.91px 15px #d9dade, -9.91px -9.91px 15px #ffffff;
+}
+
+img {
+  box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+  -moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+  -webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+
+.showtime {
+  text-align: center;
+}
